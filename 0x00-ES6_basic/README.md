@@ -1,1 +1,1 @@
-<h2>0x00-ES6_basic project</h2>
+<h1>0x00-ES6_basic</h1>
