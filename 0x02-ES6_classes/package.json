@@ -1,0 +1,15 @@
+{
+  "name": "0x02-ES6_classes",
+  "version": "1.0.0",
+  "description": "<h1>0x02-ES6_classes project</h1>",
+  "main": "0-classroom.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  }
+}
